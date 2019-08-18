@@ -1,0 +1,67 @@
+/* ここから下に記載していく */
+#site-box {
+    width : 1366px;
+background-color: bisque;
+}
+.imgbox
+{
+ display: flex;
+}
+.imgbox p img
+{
+    width: 100%;
+    height: 150px;
+}
+.header{
+     justify-content: center;
+     width: 1366px;
+     height: 150px;
+}
+
+.navbar-brand
+{
+font-family: fantasy; 
+justify-content: center;
+
+}
+
+.jumbotron legend{
+font-family: fantasy; 
+display: flex;
+font-size: 60px;
+padding-top: 40px;
+padding-left :60px;
+}
+.fieldset{
+    padding-top: 300px;
+    justify-content: center;
+    display: flex;
+}
+.box{
+font-family: fantasy; 
+ 
+font-size: 20px;
+}
+
+.footer{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+     width: 1366px;
+     height: 70px;
+}
+.imgbox2
+{
+ display: flex;
+}
+.imgbox2 p img
+{
+    width: 100%;
+    height: 150px;
+}
+input[type="submit"] 
+{
+    padding-top:10px;
+    font-family: fantasy; 
+    font-size: 25px;
+}
